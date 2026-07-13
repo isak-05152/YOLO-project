@@ -1,0 +1,14 @@
+# Ignore datasets
+VisDrone2019-DET-train/
+VisDrone2019-DET-val/
+VisDrone2019-DET-test-dev/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO outputs
+runs/
+
+# Optional model weights
+*.pt
