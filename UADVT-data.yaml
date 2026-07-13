@@ -1,0 +1,12 @@
+path: images/UAVDT_sample
+
+train: train/img
+val: test/img
+
+nc: 4
+
+names:
+  0: car
+  1: vehicle
+  2: truck
+  3: bus
